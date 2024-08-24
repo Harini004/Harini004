@@ -21,16 +21,9 @@ Here are some ideas to get you started:
 I'm a passionate Data Science student from Erlangen, Germany. I'm constantly learning new things.
 
 - 🔭 I’m currently working as a working student in Siemens while doing my masters in data science
-- 🌱 I’m learning ML/AI
-- 👯 I’m looking to collaborate on [Projects or Topics]
-- 🤔 I’m open to discussing [Topics or Interests]
-- 📫 How to reach me: harinisankaran1998@gmail.com
+- 🌱 I’m specialising in ML/AI
+- 📫 How to reach me harinisankaran1998@gmail.com
 
-## 💻 Skills
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, Jenkins
-- **Databases:** MySQL, MongoDB
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini004&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
@@ -42,7 +35,8 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini004&layout=compact)
 
 ## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Harini004&theme=light)
+![LeetCode Stats](https://leet-code-stats.vercel.app/api?username=Harini004)
+
 
 ## 🛠️ Languages and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -69,9 +63,9 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 ## 📊 GitHub Contributions
 ![Your GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Harini004&theme=github)
 
-## 🔗 Connect With Me
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/YourTwitterHandle)
-- [LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
 
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-sankaran-a657a7182/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FD7A1E?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harini004/)
 
