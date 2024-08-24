@@ -26,7 +26,7 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harini004&row=1&column=5&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harini004&row=1&column=5&no-frame=true&margin-w=15&margin-h=15)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harini004)
 
