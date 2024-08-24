@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 # Hello, I'm Harini Sankaran 👋
 
 ## 👨‍💻 About Me
-I'm a passionate Data Science student from Erlangen, Germany. I'm constantly learning new things.
+I'm a passionate Data Science student from Erlangen, Germany.
+Seeking to develop and explore new ideas and opportunities while learning and improving technical and personal skills.
 
 - 🔭 I’m currently working as a working student in Siemens while doing my masters in data science
 - 🌱 I’m specialising in ML/AI
