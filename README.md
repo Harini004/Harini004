@@ -22,7 +22,7 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 
 - 🔭 I’m currently working as a working student in Siemens while doing my masters in data science
 - 🌱 I’m specialising in ML/AI
-- 📫 How to reach me harinisankaran1998@gmail.com
+- 📫 How to reach me [harinisankaran1998@gmail.com](mailto:harinisankaran1998@gmail.com)
 
 
 ## 📈 GitHub Stats
@@ -34,10 +34,7 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 </p>
 
 ## 🧩 LeetCode Stats
-
-<p align="center">
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/Harini004)](https://leetcode.com/Harini004)
-</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Harini004)](https://leetcode.com/Harini004)
 
 ## 🛠️ Languages and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
