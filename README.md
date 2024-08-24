@@ -24,8 +24,9 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 - 🌱 I’m specialising in ML/AI
 - 📫 How to reach me [harinisankaran1998@gmail.com](mailto:harinisankaran1998@gmail.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harini004)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harini004&row=1&column=5&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harini004)
 
