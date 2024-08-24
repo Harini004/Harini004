@@ -34,8 +34,8 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 </p>
 
 ## 🧩 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Harini004)](https://leetcode.com/Harini004)
-
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Harini004&theme=light)
+[![LeetCode Profile Card](https://leetcard.jacoblin.cool/Harini004)](https://leetcode.com/Harini004)
 
 ## 🛠️ Languages and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
