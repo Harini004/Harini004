@@ -32,8 +32,17 @@ I'm a passionate [Your Profession/Title] from [Your Location]. I enjoy working o
 - **Tools:** Git, Docker, Jenkins
 - **Databases:** MySQL, MongoDB
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername)
+
+## 🌐 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=yourleetcodeusername&theme=light)
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,11 +50,12 @@ I'm a passionate [Your Profession/Title] from [Your Location]. I enjoy working o
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## 📈 GitHub Contributions
+## 📊 GitHub Contributions
 ![Your GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
 
 ## 🔗 Connect With Me
 - [GitHub](https://github.com/yourusername)
 - [Twitter](https://twitter.com/YourTwitterHandle)
 - [LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
+
 
