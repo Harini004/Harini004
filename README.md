@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header Image](https://cdn.jsdelivr.net/gh/saadpasta/github-profile-readme-generator@1.5.0/src/assets/github-header.svg)
+
 
 # Hello, I'm Harini Sankaran 👋
 
