@@ -45,10 +45,26 @@ I'm a passionate [Your Profession/Title] from [Your Location]. I enjoy working o
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Harini004&theme=light)
 
 ## 🛠️ Languages and Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00A5CF?style=flat&logo=api&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Informatica PowerCenter](https://img.shields.io/badge/Informatica_PowerCenter-0033A0?style=flat&logo=informatica&logoColor=white)
+![Informatica Data Quality](https://img.shields.io/badge/Informatica_Data_Quality-0033A0?style=flat&logo=informatica&logoColor=white)
+![Informatica MDM](https://img.shields.io/badge/Informatica_MDM-0033A0?style=flat&logo=informatica&logoColor=white)
+![Informatica P360](https://img.shields.io/badge/Informatica_P360-0033A0?style=flat&logo=informatica&logoColor=white)
+![Informatica Cloud](https://img.shields.io/badge/Informatica_Cloud-0033A0?style=flat&logo=informatica&logoColor=white)
+![Informatica BPM](https://img.shields.io/badge/Informatica_BPM-0033A0?style=flat&logo=informatica&logoColor=white)
+![Informatica Developer](https://img.shields.io/badge/Informatica_Developer-0033A0?style=flat&logo=informatica&logoColor=white)
+
 
 ## 📊 GitHub Contributions
 ![Your GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
