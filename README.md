@@ -33,16 +33,16 @@ I'm a passionate [Your Profession/Title] from [Your Location]. I enjoy working o
 - **Databases:** MySQL, MongoDB
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini004&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harini004)
 
 ## 🌐 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini004&layout=compact)
 
 ## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=yourleetcodeusername&theme=light)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Harini004&theme=light)
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
