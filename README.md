@@ -35,7 +35,7 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini004&layout=compact)
 
 ## 🧩 LeetCode Stats
-![LeetCode Stats](https://leet-code-stats.vercel.app/api?username=Harini004)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Harini004)](https://leetcode.com/Harini004)
 
 
 ## 🛠️ Languages and Tools
@@ -59,9 +59,6 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 ![Informatica BPM](https://img.shields.io/badge/Informatica_BPM-0033A0?style=flat&logo=informatica&logoColor=white)
 ![Informatica Developer](https://img.shields.io/badge/Informatica_Developer-0033A0?style=flat&logo=informatica&logoColor=white)
 
-
-## 📊 GitHub Contributions
-![Your GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Harini004&theme=github)
 
 
 ## 🔗 Connect With Me
