@@ -26,17 +26,18 @@ I'm a passionate Data Science student from Erlangen, Germany. I'm constantly lea
 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini004&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Harini004)
-
-## 🌐 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini004&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harini004&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" alt="Harini004's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Harini004" alt="Harini004's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini004&layout=compact" alt="Harini004's Most Used Languages" />
+</p>
 
 ## 🧩 LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Harini004)](https://leetcode.com/Harini004)
 
+<p align="center">
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/Harini004)](https://leetcode.com/Harini004)
+</p>
 
 ## 🛠️ Languages and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
