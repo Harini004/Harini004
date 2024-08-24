@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 -->
 ![Header Image](https://cdn.jsdelivr.net/gh/saadpasta/github-profile-readme-generator@1.5.0/src/assets/github-header.svg)
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Harini Sankaran 👋
 
 ## 👨‍💻 About Me
-I'm a passionate [Your Profession/Title] from [Your Location]. I enjoy working on [Your Interests or Technologies], and I'm constantly learning new things.
+I'm a passionate Data Science student from Erlangen, Germany. I'm constantly learning new things.
 
-- 🔭 I’m currently working on [Current Project or Role]
-- 🌱 I’m learning [New Skills or Technologies]
+- 🔭 I’m currently working as a working student in Siemens while doing my masters in data science
+- 🌱 I’m learning ML/AI
 - 👯 I’m looking to collaborate on [Projects or Topics]
 - 🤔 I’m open to discussing [Topics or Interests]
-- 📫 How to reach me: [Your Email Address]
+- 📫 How to reach me: harinisankaran1998@gmail.com
 
 ## 💻 Skills
 - **Languages:** Python, JavaScript, Java, C++
@@ -67,7 +67,7 @@ I'm a passionate [Your Profession/Title] from [Your Location]. I enjoy working o
 
 
 ## 📊 GitHub Contributions
-![Your GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+![Your GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Harini004&theme=github)
 
 ## 🔗 Connect With Me
 - [GitHub](https://github.com/yourusername)
