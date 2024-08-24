@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Harini004/Harini004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,32 +13,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header Image](https://your-image-url.com/header-image.png)
+![Header Image](https://cdn.jsdelivr.net/gh/saadpasta/github-profile-readme-generator@1.5.0/src/assets/github-header.svg)
 
-# Hi, I'm [Your Name] 👋
+# Hello, I'm [Your Name] 👋
 
-## About Me
-I'm a [Your Profession/Title] passionate about [Your Interests]. I specialize in [Your Specialization or Technologies]. Here are a few things I’m currently working on:
+## 👨‍💻 About Me
+I'm a passionate [Your Profession/Title] from [Your Location]. I enjoy working on [Your Interests or Technologies], and I'm constantly learning new things.
 
-- 🔭 Working on [Current Project or Role]
-- 🌱 Learning [New Technologies or Skills]
-- 👯 Looking to collaborate on [Projects or Areas of Interest]
-- 🤔 Exploring [New Topics or Areas]
-- 💬 Ask me about [Your Expertise]
+- 🔭 I’m currently working on [Current Project or Role]
+- 🌱 I’m learning [New Skills or Technologies]
+- 👯 I’m looking to collaborate on [Projects or Topics]
+- 🤔 I’m open to discussing [Topics or Interests]
+- 📫 How to reach me: [Your Email Address]
 
-## 🌟 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+## 💻 Skills
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, Jenkins
+- **Databases:** MySQL, MongoDB
 
-## 🔧 Languages and Tools
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
+
+## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-## 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedInProfile)
 
 ## 📈 GitHub Contributions
 ![Your GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
@@ -48,3 +48,4 @@ I'm a [Your Profession/Title] passionate about [Your Interests]. I specialize in
 - [GitHub](https://github.com/yourusername)
 - [Twitter](https://twitter.com/YourTwitterHandle)
 - [LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
+
