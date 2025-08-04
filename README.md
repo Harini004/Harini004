@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 # Hello, I'm Harini Sankaran 👋
 
 ## 👨‍💻 About Me
-I'm a passionate Data Science student from Erlangen, Germany.
+I'm a passionate Data Analyst from Erlangen, Germany.
 Seeking to develop and explore new ideas and opportunities while learning and improving technical and personal skills.
 
-- 🔭 I’m currently working as a working student in Siemens while doing my masters in data science
-- 🌱 I’m specialising in ML/AI
+- 🔭 I’m currently working as a Data Analyst at Proliant Data GmbH
+- 🌱 I’m specialising in SAP BODS, Siemens Service Contracts
+- 👨‍💻 Master's in Data Science at FAU Erlangen with ML/AI Specialisation
 - 📫 How to reach me [harinisankaran1998@gmail.com](mailto:harinisankaran1998@gmail.com)
 
 ## 🏆 GitHub Trophies
