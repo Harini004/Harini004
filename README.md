@@ -34,9 +34,9 @@ Seeking to develop and explore new ideas and opportunities while learning and im
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harini004&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" alt="Harini004's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Harini004" alt="Harini004's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini004&layout=compact" alt="Harini004's Most Used Languages" />
+<!--  <img height = "180cm" src="https://github-readme-stats.shion.dev/api?username=Harini004&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=default" alt="Harini004's GitHub Stats" />  -->
+<img height = "180cm" src="https://streak-stats.demolab.com/?user=Harini004" alt="Harini004's GitHub Streak" />
+  <img height = "180cm"  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Harini004&layout=compact" alt="Harini004's Most Used Languages" />
 </p>
 
 ## 🧩 LeetCode Stats
